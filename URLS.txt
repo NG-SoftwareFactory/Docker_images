@@ -1,0 +1,8 @@
+[sonatype] https://hub.docker.com/r/sonatype/nexus3/
+[Jenkins LTS] https://hub.docker.com/r/jenkins/jenkins/
+[SonarQube] https://hub.docker.com/_/sonarqube/
+[Git Lab] https://hub.docker.com/r/gitlab/gitlab-ce/
+[Eclipse Chi] https://hub.docker.com/r/eclipse/che/
+[tomcat] https://hub.docker.com/_/tomcat/
+[mysql] https://hub.docker.com/_/mysql/
+[redmine] https://hub.docker.com/_/redmine/
