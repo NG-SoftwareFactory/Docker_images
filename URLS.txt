@@ -6,3 +6,7 @@
 [tomcat] https://hub.docker.com/_/tomcat/
 [mysql] https://hub.docker.com/_/mysql/
 [redmine] https://hub.docker.com/_/redmine/
+
+
+
+[Docker Registry] https://hub.docker.com/_/registry/
